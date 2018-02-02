@@ -1,4 +1,2 @@
-# Created by .ignore support plugin (hsz.mobi)
 .idea/
-.spring-cloud-test.iml
-.target/
+spring-cloud-test.iml
